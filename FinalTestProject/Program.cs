@@ -17,15 +17,17 @@ namespace FinalTestProject
             {
                 if(item is Adult)
                 {
+                    var obj = item as Adult;
                     Console.WriteLine("Printing Adult Class Properties");
-                    Console.WriteLine(((Adult)item).FirstName);
-                    Console.WriteLine(((Adult)item).LastName);
+                    Console.WriteLine(obj.FirstName);
+                    Console.WriteLine(obj.LastName);
                 }
                 else
                 {
+                    var obj = item as Child;
                     Console.WriteLine("Printing Child Class Properties");
-                    Console.WriteLine(((Child)item).FirstName);
-                    Console.WriteLine(((Child)item).LastName);
+                    Console.WriteLine(obj.FirstName);
+                    Console.WriteLine(obj.LastName);
                 }
                 
             }
