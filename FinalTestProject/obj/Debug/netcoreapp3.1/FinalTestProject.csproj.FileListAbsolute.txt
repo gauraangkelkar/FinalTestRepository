@@ -1,0 +1,13 @@
+C:\Humber College\FinalTestProject\FinalTestProject\bin\Debug\netcoreapp3.1\FinalTestProject.exe
+C:\Humber College\FinalTestProject\FinalTestProject\bin\Debug\netcoreapp3.1\FinalTestProject.deps.json
+C:\Humber College\FinalTestProject\FinalTestProject\bin\Debug\netcoreapp3.1\FinalTestProject.runtimeconfig.json
+C:\Humber College\FinalTestProject\FinalTestProject\bin\Debug\netcoreapp3.1\FinalTestProject.runtimeconfig.dev.json
+C:\Humber College\FinalTestProject\FinalTestProject\bin\Debug\netcoreapp3.1\FinalTestProject.dll
+C:\Humber College\FinalTestProject\FinalTestProject\bin\Debug\netcoreapp3.1\FinalTestProject.pdb
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.csprojAssemblyReference.cache
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.AssemblyInfoInputs.cache
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.AssemblyInfo.cs
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.csproj.CoreCompileInputs.cache
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.dll
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.pdb
+C:\Humber College\FinalTestProject\FinalTestProject\obj\Debug\netcoreapp3.1\FinalTestProject.genruntimeconfig.cache
